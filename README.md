@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm M@4rk$ 👋 
 
-<!--
-**StruMa-Code/StruMa-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Cook, Father & Developer !!
 
-Here are some ideas to get you started:
+- 🔭 I just started my developer experience.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact`s: Marvel-time with doughter, snowboarding, coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+
+
+[website]: #coming soon
+[youtube]: #coming soon
+[instagram]: #coming soon
